@@ -14,3 +14,8 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: place
+  type: text
+  config:
+    required: false
+  label: Place
